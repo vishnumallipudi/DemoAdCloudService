@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdWeb", "AdWeb\AdWeb.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdWorkerRole", "AdWorkerRole\AdWorkerRole.csproj", "{D48DE6F5-5256-4AD2-912E-684706CF3095}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdClassLibrary", "AdClassLibrary\AdClassLibrary.csproj", "{D0B5F1C5-0866-490A-80DC-F714025A573B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{D48DE6F5-5256-4AD2-912E-684706CF3095}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D48DE6F5-5256-4AD2-912E-684706CF3095}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D48DE6F5-5256-4AD2-912E-684706CF3095}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0B5F1C5-0866-490A-80DC-F714025A573B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0B5F1C5-0866-490A-80DC-F714025A573B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0B5F1C5-0866-490A-80DC-F714025A573B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0B5F1C5-0866-490A-80DC-F714025A573B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
